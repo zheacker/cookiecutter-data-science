@@ -58,7 +58,7 @@ target/
 
 # DotEnv configuration
 .env
-.env.leave
+# .env.leave
 
 # Database
 *.db
